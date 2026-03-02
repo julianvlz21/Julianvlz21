@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi guys 👋
+
+## PROFESSIONAL 🎓
+* I'm Julian Valenzuela, I'm a professional in busines administraction.
+* Currently diving deep in lenguage python, English and other lenguage of program.
+
+## HOBBIES
+* I like to wach many types of movie
+* I love to study about history
+
 
 <!--
 **julianvlz21/Julianvlz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
